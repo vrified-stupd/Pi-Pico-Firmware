@@ -12,4 +12,4 @@ Pi Pico Firmware (or PPF for short) is a firmware like program that makes it eas
 - Breadboard or Electronics (Optional)
 
 ## Credits
-[T-622](https://github.com/T-622)    [RPI PICO I2C LCD](https://github.com/T-622/RPI-PICO-I2C-LCD/)
+[T-622](https://github.com/T-622) [RPI PICO I2C LCD](https://github.com/T-622/RPI-PICO-I2C-LCD/)
