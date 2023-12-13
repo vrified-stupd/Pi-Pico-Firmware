@@ -1,5 +1,5 @@
 # Pi-Pico-Firmware (ALPHA TESTING)
-Pi Pico Firmware (or PPF for short) is a firmware like program that makes it easier to use the Pi Pico.
+Pi Pico Firmware (or PPF for short) is a firmware like program that makes it easier to use and code the Raspberry Pi Pico. The Pi Pico or the Raspberry Pi Pico is a microcontroller that is popular yes, but many people dont code it because its finicky and there isn't that much documentation. Well this *Partially* solves that with many amenities that make coding the Raspberry Pi Pico *better*.
 
 ## Its uses include:
 - Boot Screens
