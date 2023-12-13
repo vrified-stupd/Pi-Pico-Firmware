@@ -26,7 +26,7 @@ Pi Pico Firmware (or PPF for short) is a firmware like program that makes it eas
 
 ## Updates Coming Soon
 (This List is ordered by priority, top meaning most priority and bottom meaning least priority)
-- Logs
+- Error Logs
 - Error Screens
 - Autosaving Code
 - Raspberry Pi Pico W/WH Support
