@@ -1,10 +1,11 @@
-# Pi-Pico-Firmware
+# Pi-Pico-Firmware (ALPHA TESTING)
 Pi Pico Firmware (or PPF for short) is a firmware like program that makes it easier to use the Pi Pico.
 
 ## Its uses include:
 - Boot Screens
-- Error Screens and Logs (Not yet done)
-- Autosaving (Not yet done)
+- Error Screens (Not yet done)
+- Logs (Partially done)
+- Autosaving Code (Not yet done)
 
 ## Prerequisites
 - 16x2 LCD (Optional)
@@ -17,6 +18,18 @@ Pi Pico Firmware (or PPF for short) is a firmware like program that makes it eas
 2. Plug your Raspberry Pi PIco in
 3. Open code.py
 4. Put your code in the "Main" Class
+
+## Notes
+- Other RP2040 devices might not work.
+- Most (If not all) non RP2040 MicroPython Devices will not work and might even damage the device
+- The recommended device for this program is The "Raspberry Pi Pico Normal/H"
+
+## Updates Coming Soon
+(This List is ordered by priority, top meaning most priority and bottom meaning least priority)
+- Logs
+- Error Screens
+- Autosaving Code
+- Raspberry Pi Pico W/WH Support
 
 ## Credits
 [T-622](https://github.com/T-622) [RPI PICO I2C LCD](https://github.com/T-622/RPI-PICO-I2C-LCD/)
