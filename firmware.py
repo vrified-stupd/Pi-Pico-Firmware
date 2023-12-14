@@ -48,14 +48,14 @@ class main():
         print("") #THIS IS NOT YET FINISHED
         
     #END
+        
+    bootLogs()
     
     def boot():
         #put variables here
         hi = "Hello, World!"
         i2c = I2C(0, sda=machine.Pin(0), scl=machine.Pin(1), freq=400000)
         lcd = I2cLcd(i2c, I2C_ADDR, I2C_NUM_ROWS, I2C_NUM_COLS)
-
-        bootLogs()
         
         #END
         print("boot")
